@@ -13,6 +13,10 @@ Check out the [presentation PDF](vim-workshop.pdf).
 	```shell
 	brew install macvim --override-system-vim
 	```
+	
+	```shell
+	sudo apt install  -U vim
+	``` 
 
 1. Create a vimrc
 
